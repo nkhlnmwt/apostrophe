@@ -29,4 +29,7 @@
     ],
     "ext": "json, js, html, less"
   }
+  "engines": {
+    "node": "10.20.1"
+  },
 }
